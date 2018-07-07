@@ -1,0 +1,9 @@
+Building crebel
+
+See doc/readme-qt.rst for instructions on building crebel-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of crebel.
+
+See doc/build-*.txt for instructions on building crebeld,
+the intended-for-services, no-graphical-interface, reference
+implementation of crebel.
