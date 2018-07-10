@@ -1,0 +1,1 @@
+Use autogen.sh for tor installation in ubuntu.
